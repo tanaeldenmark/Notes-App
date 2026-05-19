@@ -1,0 +1,14 @@
+## Tanael Contributions ##
+
+* Set up the React Native environment and configured the Expo blank template with SDK 55.
+* Built the entire navigation structure in App.js using React Navigation with a native stack.
+* Coded all four screens — HomeScreen, AddNoteScreen, ViewNoteScreen, and EditNoteScreen — following Jane's wireframes exactly.
+* Implemented all CRUD functions — create, read, update, and delete — for full note management.
+* Wired up AsyncStorage in utils/storage.js so notes persist after the app is closed.
+* Built the HomeScreen reload logic using useFocusEffect so the note list always stays updated.
+* Set up utils/theme.js with all shared colors, shadows, and font tokens used across the app.
+* Resolved navigation errors and data saving issues that came up during development.
+* Fixed the Node.js v24 compatibility issue that was preventing the app from running.
+* Tested all CRUD functions thoroughly and verified that data saved and loaded correctly across app restarts.
+* Checked code quality across all files and confirmed the final app matched the original planned design.
+* Reported and fixed all bugs found during testing to ensure the app ran smoothly before submission.
