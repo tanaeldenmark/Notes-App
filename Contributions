@@ -15,5 +15,12 @@
 
 ## Resare Contributions ##
 
-*
+* Planned the overall UI and created the wireframes and screen layout before coding began.
+* Designed all four screens — HomeScreen, AddNoteScreen, ViewNoteScreen, and EditNoteScreen — with a clean and consistent look.
+* Styled the NoteCard component with color-coded palettes, accent stripes, and a layout showing the title, preview, date, and action buttons.
+* Designed the DeleteModal confirmation dialog and kept styling consistent across all screens using utils/theme.js.
+* Created a clear screen flow diagram to map out how each screen connects to one another.
+* Wrote all project reports and documents and kept all tasks organized and on schedule.
+* Prepared all final screenshots of the working app for submission, covering every screen and the full CRUD process.
+* Researched guides and references that helped the team make informed decisions throughout the project.
 
