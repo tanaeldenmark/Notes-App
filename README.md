@@ -41,7 +41,6 @@ Below is the simplest step-by-step flow of how the application works:
 - If confirmed, the app removes the note from storage.
 - The Home Screen refreshes, and the deleted note is no longer displayed. 
 
-Name of members: John Cedric Tabios
-                 Jane Resare
-		             Denmark Tanael
+Name of members: Jane Resare
+		         Denmark Tanael
 
